@@ -18,7 +18,7 @@ In this lab you've learned the basics of number theory as it relates to addition
 ## Lab Questions
 
 ### 1 - How might you add more than two bits together?
-	A carry bit
+	A carry bit with another adder.
 
 ### 2 - What is the importance of the XOR gate in an adder?
 	The XOR gate in an adder handles the output of the adder only outputing if they are all on or if only one is on.
